@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Hunter",
+  "description": "A 'Hollywood Hacker' themed web application that simulates an AI bot automatically finding and applying for jobs based on a user's resume and keywords.",
+  "requestFramePermissions": []
+}
